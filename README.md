@@ -1,9 +1,9 @@
 ## COMPILER CONSTRUCTION LAB
-1 Theory assignment for writing details about LEX and YACC
-compilation. 
+1Theory assignment for writing details about LEX and YACC
+compilation.  
 2 Count the number of comments, keywords, identifiers, words, 
-lines and spaces from input file. 
-3 Count number of words starting with 'A'. 
+lines and spaces from input file.  
+3 Count number of words starting with 'A'.  
 4 Conversion of lowercase to uppercase and vice versa.  
 5 Conversion of decimal to hexadecimal number in a file.  
 6 Test lines ending with ''com''.  
