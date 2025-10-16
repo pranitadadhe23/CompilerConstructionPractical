@@ -1,5 +1,5 @@
 ## COMPILER CONSTRUCTION LAB
-1Theory assignment for writing details about LEX and YACC
+1 Theory assignment for writing details about LEX and YACC
 compilation.  
 2 Count the number of comments, keywords, identifiers, words, 
 lines and spaces from input file.  
